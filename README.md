@@ -1,0 +1,2 @@
+# FlappyBirdAi
+neat + pygame
